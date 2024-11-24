@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1732482418,
+	"version": 1732488529,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/colisaoinimigo2-sheet0.png",
 		"images/fundocenariopedra.png",
 		"images/imgpaginaestatica-sheet0.png",
+		"images/colisaoinimigo3-sheet0.png",
 		"media/osttheme.ogg",
 		"media/chasetheme.ogg",
 		"icon-16.png",
